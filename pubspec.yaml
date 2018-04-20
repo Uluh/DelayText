@@ -1,0 +1,24 @@
+name: step2_add_package
+description: A new Flutter application.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  path_provider: "^0.4.0"
+
+  cupertino_icons: ^0.1.0
+  
+  intl: "^0.15.4"
+
+  
+  android_alarm_manager: "^0.1.0"
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+flutter:
+  uses-material-design: true
